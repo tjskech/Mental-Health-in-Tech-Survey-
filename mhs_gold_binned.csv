@@ -1,0 +1,1260 @@
+Age,Gender,family_history,treatment,work_interfere,no_employees,benefits,care_options,seek_help,remote_work
+age_mid_to_senior_adult,female,No,Yes,Often,emp_small,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,No,Yes,No,No
+age_early_adult,male,No,No,Never,emp_medium,Yes,No,Don't know,Yes
+age_early_adult,male,Yes,No,Sometimes,emp_small,Yes,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,Don't know,No,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,No,Never,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,Yes,Not sure,No,No
+age_young_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_small,Yes,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Often,emp_medium,Yes,Yes,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Never,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Rarely,emp_small,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,No,Rarely,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,female,No,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_early_adult,male,No,Yes,Rarely,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Yes,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_young_adult,male,No,No,Often,emp_small,No,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,Yes,No,Don't know,No
+age_young_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,diverse,Yes,Yes,Rarely,emp_medium,Yes,Yes,No,No
+age_early_adult,diverse,Yes,No,Not reported,emp_small,Don't know,No,No,Yes
+age_young_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,No,Don't know,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Yes,Yes
+age_early_adult,male,No,No,Never,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,Don't know,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,female,Yes,Yes,Often,emp_small,No,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_medium,Yes,No,Yes,Yes
+age_early_adult,female,No,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,No,Rarely,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,No
+age_young_adult,female,No,No,Rarely,emp_large,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,No,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,Not sure,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,No,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_young_adult,male,No,No,Never,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_early_adult,female,No,Yes,Often,emp_small,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,No,Never,emp_large,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Not sure,Don't know,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_young_adult,diverse,No,No,Not reported,emp_medium,Yes,Yes,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,No,Don't know,No
+age_young_adult,male,Yes,No,Rarely,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,Yes,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,female,No,No,Never,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,No,No,Never,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Rarely,emp_small,Yes,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_early_adult,male,Yes,No,Never,emp_small,Yes,No,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,No,Yes,No
+age_young_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_small,Yes,Yes,Yes,Yes
+age_early_adult,male,No,No,Never,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,No
+age_young_adult,male,No,No,Often,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Rarely,emp_small,Yes,Yes,Yes,No
+age_young_adult,male,No,Yes,Rarely,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Often,emp_small,Yes,No,No,No
+age_early_adult,male,No,Yes,Never,emp_medium,Yes,Not sure,No,No
+age_early_adult,male,Yes,No,Never,emp_large,Yes,No,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,Yes,No,Sometimes,emp_small,No,No,No,No
+age_young_adult,male,No,Yes,Sometimes,emp_small,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,No,Yes,No,Yes
+age_young_adult,male,No,Yes,Never,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_large,Yes,Not sure,No,No
+age_early_adult,female,No,No,Not reported,emp_small,Don't know,No,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_small,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,No,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,Yes
+age_missing,male,No,No,Not reported,emp_large,Yes,No,Yes,Yes
+age_early_adult,female,Yes,No,Not reported,emp_large,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Never,emp_small,No,No,No,No
+age_young_adult,male,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,No,Yes,Yes,No
+age_early_adult,female,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_young_adult,male,Yes,No,Not reported,emp_small,Don't know,Not sure,Yes,Yes
+age_early_adult,male,Yes,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Often,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,No,No,No
+age_early_adult,male,No,No,Never,emp_large,Yes,No,Yes,No
+age_early_adult,male,Yes,No,Rarely,emp_small,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,Yes,Yes,No
+age_early_adult,female,Yes,No,Not reported,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,Yes,No,No
+age_young_adult,male,Yes,No,Sometimes,emp_small,No,No,No,No
+age_young_adult,male,No,No,Rarely,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,Yes,Often,emp_small,Don't know,No,No,No
+age_young_adult,male,No,Yes,Never,emp_large,Don't know,Not sure,No,No
+age_young_adult,female,No,No,Not reported,emp_small,Don't know,No,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,Not sure,Yes,No
+age_early_adult,female,No,Yes,Often,emp_small,Yes,Not sure,Don't know,Yes
+age_mid_to_senior_adult,female,No,Yes,Sometimes,emp_small,Yes,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,No,Yes
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,female,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,female,No,No,Never,emp_medium,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_large,Yes,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,No,No,Yes
+age_young_adult,male,No,No,Sometimes,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_young_adult,male,Yes,No,Not reported,emp_small,Don't know,No,No,Yes
+age_early_adult,female,Yes,Yes,Never,emp_large,Yes,Not sure,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Often,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,Yes,Rarely,emp_small,No,No,No,No
+age_early_adult,female,No,No,Sometimes,emp_medium,No,No,No,No
+age_early_adult,diverse,Yes,No,Never,emp_small,No,No,No,No
+age_early_adult,female,No,No,Never,emp_large,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Rarely,emp_large,Yes,No,No,No
+age_early_adult,male,Yes,No,Not reported,emp_small,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,Yes
+age_young_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Often,emp_medium,No,Yes,No,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_mid_to_senior_adult,female,No,No,Not reported,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,No,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,Don't know,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,No,Don't know,Yes
+age_early_adult,male,No,Yes,Often,emp_small,Yes,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_small,Yes,Yes,Don't know,No
+age_early_adult,female,No,Yes,Never,emp_large,Yes,No,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Yes,Not sure,No,No
+age_early_adult,female,No,No,Not reported,emp_small,Yes,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Rarely,emp_small,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,No,Yes,No,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_small,Don't know,Not sure,Yes,Yes
+age_young_adult,male,No,No,Never,emp_small,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,No,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_small,No,No,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,male,No,Yes,Often,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_young_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,No,Not reported,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_young_adult,male,No,No,Sometimes,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Often,emp_small,No,No,No,No
+age_young_adult,female,No,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,Yes,Yes,Yes
+age_young_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_early_adult,female,No,Yes,Rarely,emp_small,Yes,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,Not sure,No,Yes
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Often,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,Yes
+age_young_adult,female,Yes,Yes,Never,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Sometimes,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_medium,Yes,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,No,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,Yes,Yes,Don't know,No
+age_young_adult,male,Yes,No,Sometimes,emp_medium,Don't know,No,Don't know,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,Yes,Yes
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_young_adult,male,No,Yes,Sometimes,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Not sure,Don't know,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,female,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Yes,No,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_large,Yes,Not sure,Don't know,No
+age_young_adult,female,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,No,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,No,Yes,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Often,emp_medium,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,female,No,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Yes,No,Don't know,No
+age_early_adult,diverse,Yes,Yes,Rarely,emp_medium,Yes,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Sometimes,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,No,Yes,Often,emp_small,Don't know,No,Don't know,Yes
+age_early_adult,male,No,Yes,Rarely,emp_medium,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,Yes,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Not sure,Yes,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Rarely,emp_small,Yes,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,female,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Yes,No
+age_early_adult,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_young_adult,male,No,No,Not reported,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,Don't know,No
+age_early_adult,female,No,No,Sometimes,emp_large,Yes,Not sure,No,No
+age_young_adult,male,No,No,Not reported,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,No,Sometimes,emp_medium,No,Yes,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_small,Don't know,No,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Never,emp_large,Don't know,No,Yes,No
+age_young_adult,male,No,No,Sometimes,emp_large,Don't know,No,Don't know,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Often,emp_small,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,No,No,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Not sure,Yes,No
+age_early_adult,female,Yes,No,Sometimes,emp_small,Yes,Yes,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,No,Yes,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_early_adult,diverse,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,No,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,No,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_missing,male,No,Yes,Often,emp_small,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,No,Yes,No,No
+age_young_adult,male,Yes,Yes,Rarely,emp_medium,Yes,No,Don't know,No
+age_young_adult,male,No,Yes,Sometimes,emp_small,Don't know,Not sure,No,No
+age_young_adult,female,No,No,Not reported,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_young_adult,female,Yes,Yes,Rarely,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_medium,Yes,Yes,Don't know,Yes
+age_early_adult,female,No,Yes,Rarely,emp_large,Yes,Yes,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,Yes
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Never,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Rarely,emp_large,Yes,No,Yes,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_medium,Yes,No,No,Yes
+age_early_adult,male,Yes,Yes,Often,emp_medium,No,No,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Don't know,Not sure,No,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_small,Don't know,Not sure,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_missing,diverse,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_large,Yes,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,Don't know,No,Don't know,Yes
+age_young_adult,female,Yes,No,Not reported,emp_large,No,No,No,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,female,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_young_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,male,Yes,No,Not reported,emp_small,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Never,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,Yes
+age_young_adult,male,No,No,Never,emp_small,Don't know,No,No,Yes
+age_early_adult,female,Yes,No,Not reported,emp_large,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Yes,No,Yes
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Don't know,Not sure,Don't know,No
+age_young_adult,male,Yes,No,Never,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,Yes,No,Often,emp_small,Don't know,No,Don't know,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_young_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,Don't know,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_small,Yes,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,No,Don't know,No
+age_early_adult,female,No,Yes,Rarely,emp_large,Yes,Yes,Don't know,No
+age_young_adult,male,No,No,Sometimes,emp_small,Don't know,Not sure,Yes,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,female,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_large,Yes,No,No,No
+age_young_adult,female,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,No,No,Yes
+age_young_adult,female,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_young_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,No,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Yes,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,No,No,Not reported,emp_medium,Yes,No,No,Yes
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,No,Often,emp_large,Yes,No,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_young_adult,male,No,Yes,Rarely,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_small,Yes,Yes,No,Yes
+age_mid_to_senior_adult,diverse,Yes,No,Never,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Yes,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,No,Never,emp_medium,Yes,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,No
+age_early_adult,female,No,No,Never,emp_large,Yes,Not sure,Yes,No
+age_early_adult,diverse,No,No,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,female,Yes,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,female,No,Yes,Rarely,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Sometimes,emp_small,Don't know,No,No,No
+age_mid_to_senior_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Sometimes,emp_small,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Not sure,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Not sure,No,No
+age_young_adult,male,Yes,Yes,Often,emp_medium,Don't know,No,Don't know,Yes
+age_young_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,Yes
+age_early_adult,female,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,Yes,Rarely,emp_small,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_small,No,No,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_young_adult,female,Yes,Yes,Often,emp_large,Yes,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Not sure,No,No
+age_early_adult,female,Yes,Yes,Often,emp_small,Don't know,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,No,Yes,Yes,Yes
+age_early_adult,male,No,No,Rarely,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,female,No,Yes,Not reported,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_large,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,Not sure,Yes,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,female,No,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Not sure,Yes,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,No,No,No,No
+age_early_adult,male,Yes,No,Rarely,emp_medium,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Yes,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,male,No,No,Sometimes,emp_small,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,Yes,Yes,Yes,No
+age_early_adult,female,Yes,No,Sometimes,emp_small,No,No,No,Yes
+age_young_adult,male,No,No,Rarely,emp_small,Don't know,No,Don't know,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,Yes,Never,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,No,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,female,Yes,Yes,Often,emp_medium,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Often,emp_medium,Yes,No,Don't know,Yes
+age_early_adult,diverse,Yes,Yes,Rarely,emp_medium,No,Not sure,No,No
+age_young_adult,female,No,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,No,Yes,No
+age_young_adult,male,Yes,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Often,emp_medium,No,No,No,No
+age_early_adult,female,Yes,No,Not reported,emp_large,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_small,No,No,No,No
+age_young_adult,diverse,No,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,No,No,No,Yes
+age_early_adult,female,No,Yes,Often,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,No,Not sure,Don't know,Yes
+age_young_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,No,Yes,No
+age_early_adult,male,Yes,No,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_mid_to_senior_adult,diverse,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_young_adult,male,Yes,Yes,Rarely,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,diverse,No,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,No,No,Sometimes,emp_large,Don't know,Not sure,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,No,Yes,No,Yes
+age_mid_to_senior_adult,male,Yes,No,Never,emp_medium,Don't know,No,Don't know,No
+age_young_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,Yes,No,Sometimes,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_large,Yes,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,Yes,Never,emp_large,Yes,Not sure,Yes,No
+age_early_adult,male,No,No,Never,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,female,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Often,emp_medium,No,No,No,Yes
+age_early_adult,female,No,No,Never,emp_medium,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Not sure,Yes,No
+age_early_adult,male,Yes,No,Never,emp_medium,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Rarely,emp_medium,Yes,Not sure,Don't know,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,No,No,Don't know,No
+age_early_adult,male,Yes,No,Often,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,Yes,No,Not reported,emp_small,No,No,Yes,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,No,No
+age_early_adult,female,Yes,Yes,Often,emp_small,No,Yes,Yes,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Sometimes,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Rarely,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Often,emp_large,Don't know,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Rarely,emp_large,Yes,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,Not sure,Yes,Yes
+age_early_adult,male,No,No,Never,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Yes,No,Yes
+age_mid_to_senior_adult,male,Yes,No,Often,emp_medium,No,Not sure,Don't know,Yes
+age_young_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_young_adult,male,Yes,No,Sometimes,emp_medium,Don't know,No,No,No
+age_young_adult,male,No,No,Never,emp_small,Don't know,Not sure,No,No
+age_early_adult,female,No,Yes,Often,emp_medium,Yes,Yes,No,Yes
+age_young_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,diverse,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,diverse,No,No,Sometimes,emp_medium,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,Don't know,Yes
+age_young_adult,female,No,Yes,Sometimes,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_small,Yes,Yes,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,Yes,Rarely,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Often,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,Yes,Not sure,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,Yes,No,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_medium,No,No,No,No
+age_early_adult,female,Yes,No,Sometimes,emp_medium,No,Yes,Yes,No
+age_young_adult,female,No,No,Often,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Don't know,No,Yes,Yes
+age_early_adult,male,Yes,Yes,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,female,Yes,No,Never,emp_large,Don't know,No,Yes,No
+age_early_adult,male,No,Yes,Never,emp_large,Yes,Not sure,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Rarely,emp_small,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,Don't know,No
+age_young_adult,female,No,No,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_young_adult,male,No,No,Not reported,emp_small,Don't know,No,Don't know,Yes
+age_young_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Never,emp_medium,No,Not sure,Don't know,No
+age_young_adult,male,Yes,No,Sometimes,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,Not sure,Yes,Yes
+age_early_adult,female,Yes,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,No,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_young_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_small,Don't know,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,Yes,Not sure,Yes,Yes
+age_early_adult,male,No,Yes,Rarely,emp_medium,No,No,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,Yes,Yes,Often,emp_medium,Don't know,Not sure,No,No
+age_early_adult,female,No,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_young_adult,female,No,No,Not reported,emp_small,No,No,No,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_young_adult,male,No,Yes,Sometimes,emp_small,Yes,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,No
+age_early_adult,female,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_mid_to_senior_adult,female,No,No,Not reported,emp_large,No,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,Yes,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_young_adult,male,No,Yes,Often,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,Yes,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,female,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,Yes,Often,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,Don't know,Yes
+age_missing,male,No,Yes,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,Yes,Yes,No,Yes
+age_early_adult,male,Yes,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Never,emp_small,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,No,Yes
+age_young_adult,male,No,No,Rarely,emp_small,Don't know,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_young_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,Yes,Yes,No
+age_missing,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Never,emp_medium,No,Not sure,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_small,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,Yes,Yes,Yes,No
+age_young_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,No,Not reported,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,No,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_medium,No,No,No,No
+age_young_adult,male,No,Yes,Often,emp_large,No,Yes,No,No
+age_early_adult,male,Yes,No,Sometimes,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,female,No,Yes,Never,emp_small,Yes,No,No,Yes
+age_early_adult,male,No,No,Never,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,diverse,No,No,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_early_adult,diverse,No,Yes,Sometimes,emp_large,Don't know,No,Yes,No
+age_early_adult,female,No,No,Not reported,emp_large,Don't know,Not sure,Yes,No
+age_early_adult,female,No,No,Not reported,emp_small,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,No,Not reported,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Rarely,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,female,No,Yes,Often,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,No,No,No
+age_young_adult,female,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Yes,No,No
+age_early_adult,female,Yes,Yes,Often,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,No,No,No
+age_early_adult,male,Yes,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_medium,Yes,Yes,No,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Yes,No,No,Yes
+age_early_adult,female,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,female,Yes,No,Not reported,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Never,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,female,No,No,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,female,No,No,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,diverse,No,Yes,Sometimes,emp_small,No,Not sure,Yes,Yes
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,No,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,female,Yes,No,Often,emp_medium,Don't know,No,No,No
+age_young_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,Don't know,Not sure,No,Yes
+age_early_adult,female,No,Yes,Rarely,emp_small,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,No,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Rarely,emp_small,No,Yes,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,Yes,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_young_adult,female,Yes,Yes,Often,emp_small,Yes,Yes,No,No
+age_mid_to_senior_adult,female,No,No,Not reported,emp_medium,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_large,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Sometimes,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_medium,Yes,No,No,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_young_adult,male,Yes,No,Not reported,emp_medium,Yes,Yes,Don't know,Yes
+age_young_adult,male,Yes,No,Never,emp_small,No,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Rarely,emp_small,No,Not sure,Don't know,Yes
+age_young_adult,male,No,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,No,Sometimes,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_large,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_young_adult,female,Yes,No,Never,emp_large,No,No,Yes,No
+age_early_adult,male,No,Yes,Never,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,diverse,No,No,Never,emp_medium,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Never,emp_large,Don't know,No,No,Yes
+age_early_adult,male,No,Yes,Rarely,emp_small,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_small,Yes,Not sure,Yes,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Never,emp_medium,Yes,No,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_large,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_young_adult,male,No,No,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_medium,No,No,No,No
+age_early_adult,female,No,Yes,Often,emp_small,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,No,Yes,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Never,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_small,Yes,Yes,Yes,Yes
+age_young_adult,female,Yes,Yes,Often,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Yes,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,Yes
+age_young_adult,female,Yes,Yes,Often,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Sometimes,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,No,Yes,No,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Yes,No,Don't know,No
+age_early_adult,male,No,No,Sometimes,emp_large,Yes,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Yes,No,No,Yes
+age_early_adult,male,Yes,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,Yes,Not sure,Yes,No
+age_early_adult,male,No,No,Often,emp_small,Don't know,No,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,No,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,Not sure,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Not reported,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,No,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,Don't know,No
+age_early_adult,male,No,Yes,Rarely,emp_medium,No,Yes,No,No
+age_young_adult,male,Yes,Yes,Often,emp_medium,Don't know,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_small,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,No,Never,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,Yes,Yes,Yes,Yes
+age_early_adult,male,No,Yes,Rarely,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,No,Yes
+age_young_adult,male,Yes,No,Often,emp_small,Don't know,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,No,Rarely,emp_medium,Don't know,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_small,No,Yes,Yes,Yes
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_large,No,Not sure,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,No,Not reported,emp_large,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_small,Yes,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_small,No,Yes,No,Yes
+age_early_adult,female,Yes,Yes,Often,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,Yes,Yes,Often,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Never,emp_medium,Yes,Not sure,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,female,Yes,No,Rarely,emp_large,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Often,emp_small,No,No,No,No
+age_young_adult,male,Yes,No,Sometimes,emp_medium,Yes,Not sure,Yes,No
+age_missing,diverse,Yes,Yes,Often,emp_small,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,No,No,Yes
+age_young_adult,male,No,No,Not reported,emp_small,Yes,No,Yes,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Yes,No,Yes
+age_young_adult,male,No,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,No,Sometimes,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Rarely,emp_medium,Yes,Yes,No,Yes
+age_early_adult,female,Yes,No,Never,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Rarely,emp_large,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Yes,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Don't know,No,Don't know,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,Yes
+age_early_adult,male,No,No,Sometimes,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,female,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,Yes,Yes,No
+age_early_adult,female,No,No,Never,emp_small,No,Yes,Don't know,Yes
+age_young_adult,female,Yes,No,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,female,Yes,No,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Sometimes,emp_large,Yes,Not sure,Yes,No
+age_young_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,female,No,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_mid_to_senior_adult,female,No,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,No,No,Yes
+age_early_adult,male,No,No,Rarely,emp_medium,Don't know,No,No,Yes
+age_young_adult,male,No,No,Never,emp_medium,Don't know,No,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_medium,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_early_adult,female,No,No,Never,emp_large,Yes,Yes,Yes,No
+age_young_adult,male,No,No,Sometimes,emp_small,Don't know,Not sure,No,No
+age_mid_to_senior_adult,female,Yes,No,Never,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,Yes,No,Not reported,emp_small,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_large,Yes,Not sure,Don't know,Yes
+age_early_adult,female,Yes,Yes,Often,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,No,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Don't know,No,Don't know,Yes
+age_early_adult,female,No,No,Sometimes,emp_small,No,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,No,No,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,Yes
+age_early_adult,male,No,No,Not reported,emp_small,Yes,No,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_early_adult,female,No,Yes,Often,emp_large,Yes,Yes,No,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Not sure,No,No
+age_early_adult,diverse,Yes,Yes,Sometimes,emp_small,No,Not sure,No,No
+age_early_adult,male,Yes,No,Sometimes,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,Yes,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Yes,Yes,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_young_adult,female,Yes,No,Sometimes,emp_medium,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Don't know,No,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,No,No,Yes
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,female,No,Yes,Rarely,emp_small,Yes,Yes,Yes,No
+age_early_adult,female,No,Yes,Often,emp_large,Yes,No,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Don't know,No,No,Yes
+age_early_adult,male,No,Yes,Often,emp_small,Don't know,No,No,Yes
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Don't know,No,No,No
+age_early_adult,male,No,No,Never,emp_small,Yes,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Never,emp_large,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,Yes
+age_mid_to_senior_adult,female,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_large,Yes,Not sure,Yes,Yes
+age_mid_to_senior_adult,male,No,No,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,No,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Not sure,Don't know,Yes
+age_early_adult,female,Yes,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Often,emp_small,Don't know,Not sure,Yes,No
+age_early_adult,female,Yes,Yes,Often,emp_large,Yes,No,No,No
+age_early_adult,female,Yes,Yes,Often,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,Don't know,No,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Don't know,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Never,emp_large,Yes,Not sure,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Don't know,No
+age_missing,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_mid_to_senior_adult,male,Yes,No,Never,emp_medium,Yes,Yes,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,No,Yes,No,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,Yes,No,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_young_adult,male,Yes,Yes,Rarely,emp_small,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Yes,Not sure,Yes,Yes
+age_early_adult,male,Yes,No,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_early_adult,female,Yes,Yes,Often,emp_small,No,Yes,No,Yes
+age_early_adult,female,Yes,No,Sometimes,emp_small,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Yes,No,No,Yes
+age_early_adult,male,No,Yes,Rarely,emp_small,No,Yes,Don't know,Yes
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Rarely,emp_medium,No,No,Don't know,No
+age_early_adult,female,No,Yes,Often,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Often,emp_small,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,Don't know,Yes
+age_early_adult,male,No,Yes,Often,emp_small,Yes,No,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,Not sure,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_young_adult,male,No,No,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,No,Yes,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Yes,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,No,Yes,No,Yes
+age_early_adult,male,No,Yes,Rarely,emp_small,No,Yes,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,No,No,Yes,No
+age_early_adult,female,No,Yes,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,female,No,Yes,Rarely,emp_medium,Don't know,No,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Often,emp_small,No,No,No,No
+age_young_adult,female,No,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_missing,diverse,Yes,Yes,Often,emp_small,Yes,Yes,Yes,Yes
+age_mid_to_senior_adult,male,Yes,No,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,No,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_medium,No,No,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,No,Yes
+age_early_adult,male,No,No,Rarely,emp_medium,No,Yes,Yes,No
+age_early_adult,male,No,No,Rarely,emp_medium,No,Yes,Yes,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,No,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_small,No,No,No,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,Not sure,No,No
+age_young_adult,male,No,Yes,Sometimes,emp_large,Don't know,No,Don't know,No
+age_early_adult,male,No,Yes,Often,emp_medium,No,Yes,No,No
+age_early_adult,male,No,No,Rarely,emp_large,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Sometimes,emp_large,No,No,No,No
+age_early_adult,female,Yes,No,Not reported,emp_large,No,Yes,No,No
+age_young_adult,male,No,No,Never,emp_large,No,Yes,Yes,No
+age_early_adult,female,Yes,No,Sometimes,emp_medium,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,No,Not sure,Don't know,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Rarely,emp_small,Yes,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Rarely,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,female,Yes,No,Rarely,emp_medium,Yes,Yes,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Never,emp_small,Don't know,Not sure,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_small,Don't know,Not sure,Don't know,Yes
+age_early_adult,male,Yes,Yes,Never,emp_small,Don't know,Not sure,Don't know,No
+age_early_adult,male,Yes,Yes,Rarely,emp_small,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Don't know,No,Don't know,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,No,No,Never,emp_medium,Yes,No,Yes,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_small,Don't know,No,Don't know,Yes
+age_mid_to_senior_adult,female,No,Yes,Often,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,Yes,No,Sometimes,emp_large,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_large,Don't know,Not sure,No,Yes
+age_early_adult,male,No,No,Often,emp_small,No,No,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_large,Don't know,Not sure,No,No
+age_early_adult,male,No,No,Not reported,emp_large,Yes,No,Yes,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_young_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_young_adult,male,No,No,Rarely,emp_medium,No,No,No,No
+age_mid_to_senior_adult,male,Yes,No,Not reported,emp_small,Don't know,No,No,No
+age_early_adult,female,Yes,Yes,Rarely,emp_medium,Yes,No,No,No
+age_early_adult,male,No,No,Never,emp_medium,No,No,Don't know,No
+age_mid_to_senior_adult,male,No,No,Sometimes,emp_small,No,Yes,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,No,No,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_mid_to_senior_adult,female,Yes,Yes,Never,emp_large,Yes,Not sure,Yes,Yes
+age_early_adult,female,Yes,Yes,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,female,No,Yes,Often,emp_small,No,Yes,No,No
+age_early_adult,diverse,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_mid_to_senior_adult,female,No,No,Rarely,emp_small,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,No,No,Yes
+age_early_adult,female,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_small,Yes,Yes,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,Yes,No,Sometimes,emp_large,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Don't know,No,No,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,female,No,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_early_adult,female,No,No,Rarely,emp_small,Don't know,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_early_adult,male,No,Yes,Often,emp_medium,Yes,Not sure,Don't know,Yes
+age_early_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,Don't know,No
+age_early_adult,male,No,Yes,Often,emp_medium,No,Yes,No,Yes
+age_early_adult,female,No,Yes,Rarely,emp_small,Yes,No,No,No
+age_early_adult,male,No,Yes,Not reported,emp_small,No,Yes,No,No
+age_young_adult,male,No,No,Not reported,emp_medium,Don't know,Not sure,No,No
+age_early_adult,male,Yes,Yes,Never,emp_small,No,No,No,Yes
+age_early_adult,male,No,Yes,Sometimes,emp_small,No,No,No,No
+age_early_adult,male,Yes,No,Often,emp_medium,Don't know,Not sure,No,Yes
+age_young_adult,male,No,Yes,Sometimes,emp_small,No,Yes,No,No
+age_early_adult,male,Yes,No,Often,emp_medium,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,No,No
+age_young_adult,male,Yes,No,Not reported,emp_small,No,No,No,No
+age_mid_to_senior_adult,male,No,No,Never,emp_large,Don't know,Not sure,No,Yes
+age_early_adult,female,No,Yes,Sometimes,emp_large,No,Yes,Yes,No
+age_early_adult,male,No,No,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,No,Yes,Often,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,No,No,Not reported,emp_small,No,Not sure,No,No
+age_early_adult,male,No,No,Rarely,emp_large,Don't know,Not sure,Yes,Yes
+age_mid_to_senior_adult,male,No,No,Never,emp_medium,No,Yes,No,No
+age_early_adult,male,No,No,Not reported,emp_small,No,Not sure,No,No
+age_mid_to_senior_adult,male,No,Yes,Sometimes,emp_large,Yes,No,Yes,Yes
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,Don't know,No,No,No
+age_mid_to_senior_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Not sure,Don't know,Yes
+age_mid_to_senior_adult,female,No,Yes,Rarely,emp_small,Don't know,Yes,Yes,Yes
+age_young_adult,male,No,No,Never,emp_medium,Don't know,No,No,No
+age_young_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_young_adult,female,No,Yes,Rarely,emp_medium,No,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_large,Yes,Not sure,Don't know,No
+age_early_adult,female,Yes,No,Never,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,Yes,No,No
+age_mid_to_senior_adult,male,No,No,Not reported,emp_small,No,No,No,Yes
+age_young_adult,female,Yes,Yes,Sometimes,emp_small,No,Yes,Yes,No
+age_young_adult,male,No,Yes,Sometimes,emp_small,No,No,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,Yes,No
+age_young_adult,male,No,Yes,Rarely,emp_small,No,Yes,No,No
+age_young_adult,diverse,No,Yes,Sometimes,emp_small,Don't know,No,Don't know,No
+age_young_adult,male,No,Yes,Often,emp_medium,Yes,Yes,Don't know,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_large,Don't know,No,Don't know,Yes
+age_early_adult,male,No,No,Sometimes,emp_medium,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Often,emp_large,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Sometimes,emp_large,Don't know,No,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Don't know,No,No,No
+age_early_adult,male,No,Yes,Often,emp_small,No,No,No,Yes
+age_early_adult,male,No,Yes,Rarely,emp_medium,Don't know,No,Don't know,No
+age_mid_to_senior_adult,female,Yes,Yes,Rarely,emp_large,Yes,Yes,Yes,Yes
+age_early_adult,female,No,No,Not reported,emp_large,No,No,Don't know,No
+age_young_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,Yes,No
+age_early_adult,male,No,No,Never,emp_medium,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,No,Yes,Often,emp_small,No,No,No,No
+age_mid_to_senior_adult,female,Yes,Yes,Sometimes,emp_medium,Yes,No,Don't know,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,Yes,Not sure,Yes,No
+age_mid_to_senior_adult,male,Yes,Yes,Often,emp_medium,No,Yes,No,No
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,Yes
+age_mid_to_senior_adult,male,Yes,No,Rarely,emp_large,Don't know,No,Yes,No
+age_early_adult,male,No,Yes,Not reported,emp_medium,No,No,No,No
+age_early_adult,male,Yes,Yes,Often,emp_medium,Yes,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_large,Yes,Yes,No,No
+age_mid_to_senior_adult,female,No,No,Not reported,emp_medium,No,Yes,No,Yes
+age_early_adult,male,Yes,Yes,Sometimes,emp_medium,Yes,Yes,No,No
